@@ -1,0 +1,5 @@
+{
+  "name": "Antigravity Operations Dashboard",
+  "description": "Unified operations interface for Antigravity Batteries, integrating WooCommerce, QuickBooks, ShipStation, and marketplaces.",
+  "requestFramePermissions": []
+}
